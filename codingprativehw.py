@@ -11,3 +11,8 @@ if mood == ("Happy"):
 if mood == ("Sad"):
     print("I hope your day gets better!")
 
+Pi_value = 3.14
+user_age = 25
+user_location = ("New York")
+Max_limit = > 1000 
+
